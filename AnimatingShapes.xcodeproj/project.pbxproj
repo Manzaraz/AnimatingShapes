@@ -14,6 +14,7 @@
 		616A7B1F2BFFEC6700A331A2 /* HeartPulse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616A7B1E2BFFEC6700A331A2 /* HeartPulse.swift */; };
 		616A7B212BFFF3BC00A331A2 /* ShapeButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616A7B202BFFF3BC00A331A2 /* ShapeButtonStyle.swift */; };
 		616A7B232BFFF6E200A331A2 /* SpinningView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616A7B222BFFF6E200A331A2 /* SpinningView.swift */; };
+		616A7B252BFFFD1C00A331A2 /* ExplodingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616A7B242BFFFD1C00A331A2 /* ExplodingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		616A7B1E2BFFEC6700A331A2 /* HeartPulse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartPulse.swift; sourceTree = "<group>"; };
 		616A7B202BFFF3BC00A331A2 /* ShapeButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeButtonStyle.swift; sourceTree = "<group>"; };
 		616A7B222BFFF6E200A331A2 /* SpinningView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinningView.swift; sourceTree = "<group>"; };
+		616A7B242BFFFD1C00A331A2 /* ExplodingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplodingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				616A7B1E2BFFEC6700A331A2 /* HeartPulse.swift */,
 				616A7B202BFFF3BC00A331A2 /* ShapeButtonStyle.swift */,
 				616A7B222BFFF6E200A331A2 /* SpinningView.swift */,
+				616A7B242BFFFD1C00A331A2 /* ExplodingView.swift */,
 				616A7B162BFFEAE100A331A2 /* Preview Content */,
 			);
 			path = AnimatingShapes;
@@ -149,6 +152,7 @@
 				616A7B1F2BFFEC6700A331A2 /* HeartPulse.swift in Sources */,
 				616A7B132BFFEADF00A331A2 /* TopicList.swift in Sources */,
 				616A7B232BFFF6E200A331A2 /* SpinningView.swift in Sources */,
+				616A7B252BFFFD1C00A331A2 /* ExplodingView.swift in Sources */,
 				616A7B112BFFEADF00A331A2 /* AnimatingShapesApp.swift in Sources */,
 				616A7B212BFFF3BC00A331A2 /* ShapeButtonStyle.swift in Sources */,
 			);
