@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct AnimatingShapesApp: App {
+//    @State var selection: Topic? = nil // check this late
+    
     var body: some Scene {
         WindowGroup {
-            TopicList()
+            NavigationSplitView {
+                TopicList()// modify this
+                
+            } detail: {
+                Text("Please select a destination")
+            }
         }
     }
 }
