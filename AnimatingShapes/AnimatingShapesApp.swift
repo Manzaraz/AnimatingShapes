@@ -11,7 +11,7 @@ import SwiftUI
 struct AnimatingShapesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TopicList()
         }
     }
 }

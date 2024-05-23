@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  TopicList.swift
 //  AnimatingShapes
 //
 //  Created by Christian Manzaraz on 23/05/2024.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct TopicList: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +20,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    TopicList()
 }
