@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61034CDA2C00FB580035C7EF /* RollinRainbow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61034CD92C00FB580035C7EF /* RollinRainbow.swift */; };
 		616A7B112BFFEADF00A331A2 /* AnimatingShapesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616A7B102BFFEADF00A331A2 /* AnimatingShapesApp.swift */; };
 		616A7B132BFFEADF00A331A2 /* TopicList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616A7B122BFFEADF00A331A2 /* TopicList.swift */; };
 		616A7B152BFFEAE100A331A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 616A7B142BFFEAE100A331A2 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		61034CD92C00FB580035C7EF /* RollinRainbow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RollinRainbow.swift; sourceTree = "<group>"; };
 		616A7B0D2BFFEADF00A331A2 /* AnimatingShapes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatingShapes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		616A7B102BFFEADF00A331A2 /* AnimatingShapesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingShapesApp.swift; sourceTree = "<group>"; };
 		616A7B122BFFEADF00A331A2 /* TopicList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicList.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				616A7B202BFFF3BC00A331A2 /* ShapeButtonStyle.swift */,
 				616A7B222BFFF6E200A331A2 /* SpinningView.swift */,
 				616A7B242BFFFD1C00A331A2 /* ExplodingView.swift */,
+				61034CD92C00FB580035C7EF /* RollinRainbow.swift */,
 				616A7B162BFFEAE100A331A2 /* Preview Content */,
 			);
 			path = AnimatingShapes;
@@ -152,6 +155,7 @@
 				616A7B1F2BFFEC6700A331A2 /* HeartPulse.swift in Sources */,
 				616A7B132BFFEADF00A331A2 /* TopicList.swift in Sources */,
 				616A7B232BFFF6E200A331A2 /* SpinningView.swift in Sources */,
+				61034CDA2C00FB580035C7EF /* RollinRainbow.swift in Sources */,
 				616A7B252BFFFD1C00A331A2 /* ExplodingView.swift in Sources */,
 				616A7B112BFFEADF00A331A2 /* AnimatingShapesApp.swift in Sources */,
 				616A7B212BFFF3BC00A331A2 /* ShapeButtonStyle.swift in Sources */,
